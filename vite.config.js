@@ -52,8 +52,8 @@ export default defineConfig({
         ],
       },
       manifest: {
-        name: "今日热榜",
-        short_name: "DailyHot",
+        name: "每日新闻-今日热榜",
+        short_name: "MeiRINews",
         description: "汇聚全网热点，热门尽览无余",
         display: "standalone",
         start_url: "/",
